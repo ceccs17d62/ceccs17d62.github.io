@@ -14,7 +14,7 @@
 
 var byeSpeaker={};
 // DO NOT attach the speakWord variable to the 'byeSpeaker' object.
-var speakWord = "Goodbye";
+var speakWord = "Good Bye";
 
 
 
